@@ -1,0 +1,19 @@
+{
+  "name": "SmartFurniture v8.0 — Diseño Paramétrico Offline",
+  "short_name": "SmartFurniture v8",
+  "description": "Aplicación PWA 100% offline para reconstrucción paramétrica Foto a 3D con homografía 3×3, Unidad 3 (Vectores y Matrices), verificación DIN 68874-1, corte 2D bicolor y presupuesto CLP.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f2b4c",
+  "theme_color": "#0f2b4c",
+  "lang": "es-CL",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
